@@ -17,6 +17,7 @@ The micrometer's communication involves three lines connected to specific Arduin
 
 <p align="center">
  <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/1.png">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/3.png">
 </p>
 
 The setup() function initializes these pins using pinMode and sets the initial state of the REQ line with `digitalWrite(req, LOW)`.
