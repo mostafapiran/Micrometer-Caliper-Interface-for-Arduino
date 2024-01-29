@@ -11,12 +11,13 @@ This GitHub repository contains an Arduino project that serves as an interface b
 ## Hardware Setup
 
 The micrometer's communication involves three lines connected to specific Arduino pins:
-<p align="center">
- <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/1.png">
-</p>
 - **REQ (Request):** Connected to Arduino pin 5.
 - **DAT (Data):** Connected to Arduino pin 2.
 - **CLK (Clock):** Connected to Arduino pin 3.
+
+<p align="center">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/1.png">
+</p>
 
 The setup() function initializes these pins using pinMode and sets the initial state of the REQ line with `digitalWrite(req, LOW)`.
 
