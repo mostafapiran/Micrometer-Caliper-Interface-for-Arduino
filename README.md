@@ -51,4 +51,13 @@ Users can customize the code to adapt it to specific micrometer models or commun
 Contributions and improvements are encouraged. If you encounter issues or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
 This project aims to provide a flexible and functional interface between an Arduino board and a micrometer caliper, making it accessible for various applications and configurations.
+
+## Communication and Resources
+
+To do this project, I got help from people, to whom I am very grateful.
+You can use the following links to contact them:
+
+- https://github.com/Eli-ostad
+- https://www.instructables.com/member/sspence/
+- https://www.youtube.com/watch?v=269xWeGSgoQ
  
