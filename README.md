@@ -1,7 +1,7 @@
 # Micrometer-Caliper-Interface-for-Arduino
 
 <p align="center">
- <img src="[https://github.com/mostafapiran/AVR-Tutorial/blob/main/Doc/maxresdefault.jpg](https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/2.jpg)">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/2.jpg">
 
 </p>
 
