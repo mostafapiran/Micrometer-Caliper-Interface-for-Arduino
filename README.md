@@ -1,5 +1,9 @@
 # Micrometer-Caliper-Interface-for-Arduino
 
+<p align="center">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/2.jpg">
+</p>
+
 ## Overview
 
 This GitHub repository contains an Arduino project that serves as an interface between an Arduino board and a micrometer caliper through a serial connection. The code enables communication with the micrometer, allowing the Arduino to retrieve and interpret measurement data. This ReadMe provides a detailed explanation of the project's key components.
@@ -10,6 +14,11 @@ The micrometer's communication involves three lines connected to specific Arduin
 - **REQ (Request):** Connected to Arduino pin 5.
 - **DAT (Data):** Connected to Arduino pin 2.
 - **CLK (Clock):** Connected to Arduino pin 3.
+
+<p align="center">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/1.png">
+ <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/3.jpg">
+</p>
 
 The setup() function initializes these pins using pinMode and sets the initial state of the REQ line with `digitalWrite(req, LOW)`.
 
@@ -42,4 +51,13 @@ Users can customize the code to adapt it to specific micrometer models or commun
 Contributions and improvements are encouraged. If you encounter issues or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
 This project aims to provide a flexible and functional interface between an Arduino board and a micrometer caliper, making it accessible for various applications and configurations.
+
+## Communication and Resources
+
+To do this project, I got help from people, to whom I am very grateful.
+You can use the following links to contact them:
+
+- https://github.com/Eli-ostad
+- https://www.instructables.com/member/sspence/
+- https://www.youtube.com/watch?v=269xWeGSgoQ
  
