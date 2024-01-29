@@ -1,0 +1,2 @@
+# Micrometer-Caliper-Interface-for-Arduino
+ This GitHub repository contains Arduino code for establishing communication between a caliper and a serial interface. The code leverages an Arduino board to interface with a micrometer, reading data from its Request (REQ), Data (DAT), and Clock (CLK) lines. The micrometer's mic interface protocol is handled to interpret and display measurement values through the serial port.
