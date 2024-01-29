@@ -17,6 +17,8 @@ The micrometer's communication involves three lines connected to specific Arduin
 
 <p align="center">
  <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/1.png">
+</p>
+<p align="center">
  <img src="https://github.com/mostafapiran/Micrometer-Caliper-Interface-for-Arduino/blob/main/3.png">
 </p>
 
